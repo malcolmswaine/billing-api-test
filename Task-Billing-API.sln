@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-Billing-API", "Task-Billing-API\Task-Billing-API.csproj", "{65E632A4-D9CE-4E4F-A48B-74BE1992910E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-Billing-Api-Tests", "Task-Billing-Api-Tests\Task-Billing-Api-Tests.csproj", "{E29F25A6-D8B4-483D-8CDA-4CF0999EBE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E632A4-D9CE-4E4F-A48B-74BE1992910E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E632A4-D9CE-4E4F-A48B-74BE1992910E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E632A4-D9CE-4E4F-A48B-74BE1992910E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E632A4-D9CE-4E4F-A48B-74BE1992910E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29F25A6-D8B4-483D-8CDA-4CF0999EBE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29F25A6-D8B4-483D-8CDA-4CF0999EBE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29F25A6-D8B4-483D-8CDA-4CF0999EBE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29F25A6-D8B4-483D-8CDA-4CF0999EBE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B8FE404-11F9-4C21-8DC9-9818639A332F}
+	EndGlobalSection
+EndGlobal
